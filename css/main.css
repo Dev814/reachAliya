@@ -1,0 +1,61 @@
+body {
+  font-family: verdana;
+  line-height: 1.5;
+  /*font-size: 120%;*/
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 1px;
+	color: white;
+	background: url('../images/splash_image2.jpg');
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container {
+  /*width: 500px;
+  padding: 15px;
+  margin-top: 80px;
+  margin-left: 40px;*/
+}
+
+.container h1, h2, p {
+  text-align: right;
+}
+
+h1 {
+  font-family: Verdana;
+  color: #FFCC00;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: bold;
+	/*font-size: 29px;
+  line-height: 38px;*/
+  color: #6F006F;
+  text-align: center;
+}
+
+p {
+  color: #ff3399;
+  text-align: center;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+  color: #A233A2;
+  text-align: center;
+}
+
+
+
